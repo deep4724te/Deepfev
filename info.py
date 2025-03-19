@@ -28,12 +28,12 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/e6b5c785f612feb5f5634.jpg https://telegra.ph/file/d6c5cfc40324bddf0f34f.jpg https://telegra.ph/file/0ad1e20c4d0179d2cb06c.jpg https://telegra.ph/file/42bef6744682c9108a510.jpg https://telegra.ph/file/eb40dba65af97f14fd1e6.jpg https://telegra.ph/file/641e8cc0219b7271aba6c.jpg https://telegra.ph/file/ecd98ffadef33afba7f7a.jpg https://telegra.ph/file/c5efffc0fd807acd6bdb3.jpg')).split()  # Sample pic
+PICS = (environ.get('PICS', 'https://i.imgur.com/vt2AfIN.jpeg')).split()  # Sample pic
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/e20b5fdaf217252964202.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://envs.sh/vqY.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/13702ae26fb05df52667c.jpg")
 SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://envs.sh/vq4.jpg'))
-CODE = (environ.get('CODE', 'https://envs.sh/vqo.jpg'))
+CODE = (environ.get('CODE', 'https://graph.org/file/b17fa60a698113e0f7334-2ffa07cd565c8fbba1.jpg'))
 FSUB_PICS = (environ.get('FSUB_PICS', 'https://graph.org/file/7478ff3eac37f4329c3d8.jpg')).split()  # Fsub pic
 
 # ============================
@@ -87,7 +87,7 @@ IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', False))
 # Channel & Group Links Configuration
 # ============================
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Moviesrequst1')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/https://t.me/Backup625')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Backup625')
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/Deep2213k')
 DEENDAYAL_MOVIE_UPDATE_CHANNEL_LNK = environ.get('DEENDAYAL_MOVIE_UPDATE_CHANNEL_LNK', 'https://t.me/Moviesupdate34')
 OWNERID = int(os.environ.get('OWNERID', '6467566398'))  # Replace with the actual admin ID
