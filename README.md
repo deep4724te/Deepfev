@@ -1,5 +1,5 @@
-<p align="center"> <img src="https://graph.org/file/ef043e0bfe76db3af15f9.jpg"> </p>
-<h1 align="center"> 𝑫𝒆𝒆𝒏𝒅𝒂𝒚𝒂𝒍_𝒅𝒉𝒂𝒌𝒂𝒅 </h1>
+<p align="center"> <img src="https://i.imgur.com/vt2AfIN.jpeg"> </p>
+<h1 align="center"> ғFɪʟᴍʏ_Aᴅᴅᴀ</h1>
 
 **OWNER**
 
