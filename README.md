@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://i.imgur.com/vt2AfIN.jpeg"> </p>
-<h1 align="center"> ғFɪʟᴍʏ_Aᴅᴅᴀ</h1>
+<h1 align="center"> Fɪʟᴍʏ_Aᴅᴅᴀ</h1>
 
 **OWNER**
 
